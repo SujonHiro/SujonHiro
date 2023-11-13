@@ -1,15 +1,20 @@
-### Hi there 👋
+### Hi there 👋, I am Sujon Howlader
+#### Backend Engineer
+![Backend Engineer](https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?size=338&ext=jpg&ga=GA1.1.1826414947.1699833600&semt=ais)
 
-**SujonHiro/SujonHiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer learning and working with JavaScript, React, Express.js, and MongoDB. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- **Frontend:** React
+- **Backend:** Express.js
+- **Database:** MongoDB
+- **Languages:** JavaScript (ES6+)
+- **Version Control:** Git
 
+Skills: Express Js / REACT / JS / HTML / CSS
+
+- 🌱 I’m currently learning Javascript 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sujon-howlader-6442b5198/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mdsujon.howlader.165470)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/thesujonhowlader/) 
