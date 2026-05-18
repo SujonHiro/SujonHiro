@@ -8,7 +8,7 @@ A clean, modern README for a passionate MERN (MongoDB, Express, React, Node.js) 
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on: [Blog (MERN)](https://github.com/SujonHiro/blogWebsite)
+- 🔭 Currently working on: [Ecommerce (MERN)](https://github.com/SujonHiro/the-commerce)
 - 🌱 Learning: advanced React patterns, Node.js performance & scaling
 - 👯 Open to: collaboration on open-source MERN projects and frontend/backend roles
 - 💬 Ask me about: React, Node.js, REST APIs, MongoDB, and developer tooling
@@ -43,7 +43,7 @@ A clean, modern README for a passionate MERN (MongoDB, Express, React, Node.js) 
 
 ## 🚀 Featured Projects
 
-- **Blog (MERN)** — Full-stack blog platform with rich editor, authentication, and CRUD operations. [Repository](https://github.com/SujonHiro/blogWebsite)
+- **Ecommerce (MERN)** — Full-stack Ecommerce platform with cart,checkout,customer profile, authentication, and Product CRUD operations. [Repository](https://github.com/SujonHiro/the-commerce)
 
 (If you want, I can add screenshots, short descriptions, tech tags, and live/demo links for each project.)
 
